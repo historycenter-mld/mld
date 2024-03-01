@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="col12_00014" %} 
 
-{% include feature/nav-menu.html sections="The Formation of the Meridian Library District; The Meridian Library District-Late 1970s & 1980s; The Meridian Library District-The 1990s; The Meridian Library District-The 21st Century; About this Collection" %}
+{% include feature/nav-menu.html sections="The Formation of the Meridian Library District; The Meridian Library District-Late 1970s and 1980s; The Meridian Library District-The 1990s; The Meridian Library District-The 21st Century; About this Collection" %}
 
 ## The Formation of the Meridian Library District
 
@@ -26,7 +26,7 @@ How did one library entity become two libraries? Residents within the city of Me
 
 Those supporting the petition for the MFLD were aware that this was how the transition would occur. It was planned from the beginning by those involved that when the MFLD formed the Meridian Public Library and the new district library should merge under one name, with both eventually becoming one united Meridian Free Library District. To secure this action another vote was necessary in which the citizens within the Meridian Public Library service area and the Meridian Free Library District needed to agree on a merger. Until this was able to occur, these two libraries operated with Grove Koger as the Meridian Free Library District librarian and Mrs. Nancy Sage as the Meridian Public Library librarian. The wheels of procedure might have taken longer than anticipated, but on August 26, 1975 the citizens of Meridian Public Library area voted to join the District (90-10), and those in the MFLD area voted (29-3) to accept the citizens of the Meridian Library District into one merged library district. Thus, the Meridian Library District started in 1974 and grew in public coverage in the merger of 1975. 
 
-## The Meridian Library District-Late 1970s & 1980s
+## The Meridian Library District-Late 1970s and 1980s
 
 In the years following the merger, the Meridian Library District continued forward with the same zeal of community involvement and public service. Library circulation continued to flourish with yearly circulation totals jumping significantly in its first few years. In 1977 the yearly circulation total for the library was 46,562 items, by 1978 that number increased to 53, 498 items, and by 1980 a significant 65,080 items circulated. Comparing this latter number to the 6,658 population figure for Meridian in 1980, this breaks down to just less than ten circulated items per person. 
 
