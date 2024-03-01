@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="col12_00014" %} 
 
-{% include feature/nav-menu.html sections="The Formation of the Meridian Library District; The Meridian Library District-Late 1970s & 1980s" %}
+{% include feature/nav-menu.html sections="The Formation of the Meridian Library District; The Meridian Library District-Late 1970s & 1980s; The Meridian Library District-The 1990s; The Meridian Library District-The 21st Century; About this Collection" %}
 
 ## The Formation of the Meridian Library District
 
@@ -42,4 +42,9 @@ In April 1984 the Meridian Library District initiated a $50,000 building expansi
 
 {% include feature/image.html objectid="col12_00102" width="50" %} 
 
+## The Meridian Library District-The 1990s
 
+## The Meridian Library District-The 21st Century
+
+## About This Collection
+This digital collection has been created using scrapbooks and other materials preserved and archived by the Meridian Library District. The initial launch of this digital collection occurred in 2024 in celebration of the 100th anniversary of the first library in Meridian, Idaho and the 50th anniversary of the Meridian Library District. This item is protected by copyright and/or related rights. To request permission for educational, commercial, or other uses, contact the History Center at history@mld.org or 208-888-4451, ext. 1023 for further information. The Meridian Library District is not liable for any violations of the law by users.
