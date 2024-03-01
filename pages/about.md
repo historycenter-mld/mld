@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="col12_00014" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+{% include feature/nav-menu.html sections="The Formation of the Meridian Library District; The Meridian Library District-Late 1970s & 1980s" %}
 
 ## The Formation of the Meridian Library District
 
@@ -28,6 +28,16 @@ Those supporting the petition for the MFLD were aware that this was how the tran
 
 ## The Meridian Library District-Late 1970s & 1980s
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+In the years following the merger, the Meridian Library District continued forward with the same zeal of community involvement and public service. Library circulation continued to flourish with yearly circulation totals jumping significantly in its first few years. In 1977 the yearly circulation total for the library was 46,562 items, by 1978 that number increased to 53, 498 items, and by 1980 a significant 65,080 items circulated. Comparing this latter number to the 6,658 population figure for Meridian in 1980, this breaks down to just less than ten circulated items per person. 
+
+While humans took great interest in the library, some animals soon found the library their home. Early in MLD history, the library cared for  a pair of gerbils named Dot and Dash. In September of 1976 a three month old black and white cat adopted the library. The library staff named him Figaro, after the cat in Disney's version of Pinocchio. Adults and children alike enjoyed his presence in the community and Figaro quickly rose up to be the library's greeter and “press relations purrson.” Perhaps the only individuals that might have been weary of Figaro’s presence were Dot and Dash, whose cage was always placed in the bathroom at nighttime when the librarians went home at night. This was to keep Figaro from harassing them. Unfortunately, in December of 1980, Figaro passed away due to injuries he suffered months previous. However, his few years' presence at the library remains a memorable aspect of the library district’s history. {% include feature/image.html objectid="col12_00011" width="50" %} {% include feature/image.html objectid="col12_00010" width="50" %}
+
+During the 1970s and 1980s the library sponsored important activities to increase child literacy and foster education. Every summer MLD held, (and continues to hold to this day) a Summer Reading Program for when children are out of school for the summer. Librarians held weekly children’s activities with special guests such as magician acts, a smokejumper, and a lesson on lassoing by Myla Meirs, a Caldwell Night Rodeo champion. On January 19, 1982, MLD initiated a storytime for preschoolers. Of the event librarian Gaye Walter declared, “We hope this program for pre-schoolers will become a weekly event.” The hope was realized. To this day, MLD continues to hold storytimes as one of their most attended and popular activities. 
+
+MLD also continued to expand their collections to benefit adults in the community. In May of 1982, the library dedicated the Nancy S. Sage and Carl H. Rathjen Idaho Collection, named after Sage, who was a longtime librarian in Meridian, and Carl Rathjen who served on the original MLD city library board and was a popular local author with sixteen novels and various short stories. True to its name, the Idaho Collection housed books that took place in Idaho, were about Idaho, or were written by Idaho authors. The collection even included many out of print publications, likely contributing to the delight of older patrons. 
+
+In April 1984 the Meridian Library District initiated a $50,000 building expansion project for the library. The most recently completed expansion had been just ten years earlier in 1974, when the Occident Club prepared to put their foot forward for a library district. The need for a library expansion ten years later indicated that Meridian only continued to grow in population. Highlights of this expansion included 800 square feet of additional space with tables and a reference area for adult patrons, 800 square feet of existing space newly designated for children (including a life sized teddy bear), and new carpeting throughout the whole building. The library increased in size by forty percent (Harriet Guthertz, Construction to end on Library in Meridian, Idaho Statesman, Wednesday July 11, 1984). 
+
+{% include feature/image.html objectid="col12_00102" width="50" %} 
 
 
