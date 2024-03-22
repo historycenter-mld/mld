@@ -165,7 +165,6 @@ Stoffer, Jeff,  “Child Safety: How to help kids help themselves,” Valley New
 
 Whitacre, Dianne “Readers Figure on Figaro; The Cat is a Bookworm,” The Idaho Statesman, May 19, 1977, A1. 
 
-TEST
 
 ## About This Collection
 This digital collection has been created using scrapbooks and other materials preserved and archived by the Meridian Library District. The initial launch of this digital collection occurred in 2024 in celebration of the 100th anniversary of the first library in Meridian, Idaho and the 50th anniversary of the Meridian Library District. This item is protected by copyright and/or related rights. To request permission for educational, commercial, or other uses, contact the History Center at history@mld.org or 208-888-4451, ext. 1023 for further information. The Meridian Library District is not liable for any violations of the law by users.
