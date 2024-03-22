@@ -12,7 +12,7 @@ url: https://mldhistory.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: mld_history
 # location of code, the full url to your github repository
-source-code: https://github.com/mldhistory/mld_history
+source-code: https://historycenter.mld.org/mld/
 
 ##########
 # SITE SETTINGS
