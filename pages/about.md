@@ -96,6 +96,71 @@ While in development, it is anticipated that by the end of 2024 the Silverstone 
 As 2024 marks the 100th year of a library in Meridian, Idaho and the 50th anniversary of the Meridian Library District, the national award winning MLD continues to move forward. MLD librarians and staff continue to be passionate about their service to a large and diverse group of patrons, especially as the city of Meridian continues to grow. MLD staff are happy to continue to serve the community in areas of literacy, technology, business, and the preservation and access to Meridian’s history. We look forward to the next 100 years. 
 
 ## Sources
+“2019 National Medal for Museum and Library Service,” Institute of Museum and Library Services,” https://www.imls.gov/issues/national-initiatives/national-medal-museum-and-library-service/2019-medals
+
+Beech, Holly “Hands-on projects, new tech draw teens to library,” Meridian Press, December 13, 2013, pg 3
+
+“Commissioners set date for library district vote,” Valley News-Times, August 8, 1974
+
+Dunten Koskela, Anna “New Meridian Library to replace area of longtime local resident” Valley News, April 25, 1996, pg 9
+
+Estrella, Joe “Meridian Library branch set to open,” The Idaho Statesman, March 20, 2009, A4. 
+
+Guthertz, Harriet, “Construction to end on Library in Meridian,” Idaho Statesman, Wednesday July 11, 1984.
+
+Johncox, Martin S., “Bond sought to build new Meridian Library, Idaho Statesman, April 22, 1995
+
+Johncox, Martin S, “Meridian Library gets back on track,” The Idaho Statesman, July 12, 1996, pg B1
+
+Johncox, Martin S., “Meridian voters support library bond in a big way,” The Idaho Statesman, November 8, 1995
+
+Kreller, Kathleen “Meridian library to get bookmobile,” The Idaho Statesman, October 29, 2003, pg 2 local
+
+“Library of Congress Literacy Awards: 2019 Winners and Honorees, https://www.loc.gov/programs/library-of-congress-literacy-awards/winners-and-honorees/winners/2019-winners-and-honorees/
+
+“Library receives $112,900 low bid,” Valley News, May 1, 1986
+
+“Library Vote Bars Meridian,” Valley News-Times, August 22, 1974
+
+Mattoon, Rick, “$100,000 needed for work on library,” Valley News, October 3, 1984.
+
+McCormick, Terrilyn, “Meridian Public Library shuts down to put old card catalog system online,” The Idaho Statesman, August 19, 1994
+
+“Meridian Free Library District 6/21/77” with “Addendum Sept ‘81,” MLD Scrapbook Series 5 1975-1987, Meridian Library District History Center Archives. 
+
+“Meridian Library bond falls short of the needed ⅔ majority,” Valley News-Times, February 9, 1995
+
+“Meridian Library opens Silverstone branch,” Valley Times, March 30, 2009, pg 19
+
+“Meridian Library to have reading team,” Valley News May 30, 1984.
+
+“Meridian library to hold story hour,” Treasure Valley Times, January 15, 1982
+
+“Meridian Library Working Toward Computerization of all Holdings,” Valley News, March 24, 1994, pg 9
+
+“Meridian Public Library quadruples its patrons,” June 14, 1997, pg B1
+
+“Meridian Slates Vote on Merger Of 2 Libraries,” The Idaho Statesman, August 1, 1975.
+
+Miller, Rebecca T., “Meet the Tiny Library,” School Library Journal, October 4, 2018; https://www.slj.com/story/Editorial-Tiny-Library
+
+“Rural Meridian Votes Approval for Library, The Idaho Statesman, Wednesday August 28, 1974
+
+“Safety Kids,” Valley News, March 21, 1984. 
+
+“Separate elections: Meridian and library-district voters ballot August 26 on merger proposal, Valley News-Times, August 14, 1975.
+
+Simnitt, Emily “Bookworms beware..this is not your ordinary Librarian: Meet a worm-eating, stereotype-challenging, irrepressible librarian,” The Idaho Statesman, August 10, 2004, Life section, page 1
+
+Smith, Terry P., “Guys Read program held at the Meridian Library,” Valley Times, April 30, 2007, pg 9
+
+Snelson, Macey “Tiny but Might: A 320-square foot library is having a big impact on early literacy, American Libraries, September 3, 2019, https://americanlibrariesmagazine.org/2019/09/03/tiny-library-but-mighty/
+
+Stoffer, Jeff,  “Child Safety: How to help kids help themselves,” Valley News, February 29, 1984. 
+
+“Voters approve library merger,” Valley News-Times, August 28, 1975
+
+Whitacre, Dianne “Readers Figure on Figaro; The Cat is a Bookworm,” The Idaho Statesman, May 19, 1977, A1. 
 
 ## About This Collection
 This digital collection has been created using scrapbooks and other materials preserved and archived by the Meridian Library District. The initial launch of this digital collection occurred in 2024 in celebration of the 100th anniversary of the first library in Meridian, Idaho and the 50th anniversary of the Meridian Library District. This item is protected by copyright and/or related rights. To request permission for educational, commercial, or other uses, contact the History Center at history@mld.org or 208-888-4451, ext. 1023 for further information. The Meridian Library District is not liable for any violations of the law by users.
