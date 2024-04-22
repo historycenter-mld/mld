@@ -12,7 +12,9 @@ credits: true
 
 {% include feature/nav-menu.html sections="The Formation of the Meridian Library District; The Meridian Library District-Late 1970s and 1980s; The Meridian Library District-The 1990s; The Meridian Library District-Into The 21st Century; The Meridian Library District-Moving Forward; Sources; About this Collection" %}
 
+
 ## The Formation of the Meridian Library District
+
 
 There are two eras in the history of libraries in Meridian, Idaho. The first era covers the Meridian Occident Club and spans from 1924 to 1974. The second era covers the creation of the Meridian Library District in 1974 and continues to the present day. 
 
@@ -26,7 +28,9 @@ Residents within the city of Meridian were not allowed to vote in the MFLD elect
 
 Many supporting the MFLD petition understood the transition would occur in this manner. It was planned from the beginning by those involved that when the MFLD formed it would merge with the MPL under one name. To secure this merger, another vote was necessary in which the citizens within the Meridian Public Library service area and the Meridian Free Library District agreed. Until this happened, these two libraries operated with Grove Koger as the Meridian Free Library District librarian and Mrs. Nancy Sage as the Meridian Public Library librarian. On August 26, 1975 the citizens of the Meridian Public Library area voted to join the District (90-10), and those in the MFLD area voted (29-3) to accept the citizens of the Meridian Public Library into one merged library district. Thus, the Meridian Library District started in 1974 and expanded its coverage area in the merger of 1975 (“Meridian Slates Vote on Merger Of 2 Libraries;” “Separate elections: Meridian and library-district voters ballot August 26 on merger proposal;” “Voters approve library merger”). 
 
+
 ## The Meridian Library District-Late 1970s and 1980s
+
 
 Following the merger, the Meridian Library District continued forward with the same zeal of community involvement and public service. Library circulation flourished with yearly totals jumping significantly in its first few years. In 1977 the yearly circulation total for the library was 46,726 items, by 1978 that number increased to 53,498 items, and by 1980 a significant 65,080 items circulated (“Meridian Free Library District 6/21/77” with Addendum Sept ‘81, MLD Scrapbook Series 5 1975-1987). Comparing this latter number to the 6,658 population figure for Meridian in 1980, this breaks down to just less than ten circulated items per person. 
 {% include feature/image.html objectid="col12_00093" width="50" %} 
@@ -55,7 +59,10 @@ As both Meridian and MLD grew in the 1980s, several construction projects became
 The construction that began in April 1984 and finished months later was only Phase I of a much larger project. In the Fall of 1984, the library announced a need for $100,000 in additional funding to update the library building. The additional money sought would help redesign the roof, provide more insulation in the walls, replace windows with insulated glass, improve and fix the electrical system, and construct a new library entrance along with other featured improvements (Mattoon, October 3, 1984). Eventually, the Meridian Library District received $54,000 in funds from a Library Services and Construction Act, while additional local matching funds were provided to help the Meridian Library begin construction in the Spring of 1986. (“Library receives $112,900 low bid”). The newly remodeled library was dedicated in October of that year. 
 
 
+
 ## The Meridian Library District-The 1990s
+
+
 MLD continued to grow throughout the 1990s, responding to increased population and the rise of new technology. The library added more computers, brought the internet to patrons, and introduced a computerized card catalog. Later in the decade, a new library was built and dedicated to better serve the residents of Meridian. 
 
 In the early 1990s, MLD continued to use a card catalog system with physical cards indicating the information for each library book and where it was located. In March of 1994, MLD Director Patty Younger sought to bring the library into the future. Addressing the Library Board, Younger said the library, “sent the cards to Nichols Software in Minnesota to be put on tape to load in a MARC record format.” Using this format and a particular computer software, the end result was the creation of an electronic card catalog system (Meridian Library Working Toward Computerization of all Holdings”). Months later, MLD closed down its operations for several days so the card catalog system could be converted into a $41,000 computer automation system. The system that MLD obtained included the benefit of an automated check-out procedure along with the online catalog. At the time of MLD’s switch to an online catalog, their inventory contained 42,000 books all of which could now be searched by patrons at a computer station (McCormick, August 19, 1994). 
@@ -70,7 +77,11 @@ On May 20, 1996 a groundbreaking event occurred for the Cherry Lane Library. Alt
 {% include feature/image.html objectid="col12_00161" width="50" %}
 {% include feature/image.html objectid="col12_00185" width="50" %}
 
+
+
 ## The Meridian Library District-Into The 21st Century
+
+
 In the 21st century, the Meridian Library District continued to promote literacy and reading among families and expanded programs to focus on teenagers. Additional priorities included providing greater library access to the community and providing patrons with a wide range of growing technological services. Significant library moments include the obtaining of a Bookmobile, the opening of new branch buildings, becoming a national award winning library, and taking over the History Center for the Meridian Historical Society. 
 
 In the 2000s, MLD librarians took innovative turns in promoting child literacy and education and in crafting more programs to get teens involved with the library. The creativity of the library district caught the attention of the community and many memorable moments transpired in child and youth services. In 2004, librarian Jillian Subach went as far as to accept eating a worm if child patrons read more than 7,000 hours over the summer. In July of that year, Subach followed through on her promise as 250 kids chanted “Eat the worm!” (Simnitt, August 10, 2004). In an effort to specifically introduce more boys into the joys of reading, the MLD Youth Services Department began holding a “Guys Read” program. The desired goal of the program was to allow boys to spend time with their fathers and other male role models while learning that reading can be fun and provide lifetime success. In April 2007, 120 boys and men attended the second annual event, with representatives from the Meridian Boys and Girls Club, The Meridian Police Department, and Micron Technology. Micron CEO Steve Appleton discussed his love of using a powered paraglider, the Meridian Police Department described the work of drug sniffing dogs, and Joey Schueler, director of the Boys and Girls Club, taught the importance of reading (Smith, April 30, 2007). In 2013, the library turned to technology as a way to help create programs that teenagers in the community wanted. Cooperating with the Idaho Commission for Libraries, MLD participated in “Teen Make It Thursday” a pilot program that taught youth how to use 3-D printers, learn robotics, and craft video game characters (Beech, December 13, 2013). These are but a few examples of the innovation MLD librarians contributed in an effort for child literacy, education, and engagement. 
@@ -104,7 +115,10 @@ Much as the past guides the present, MLD continues to look forward to the future
 
 While in development, it is anticipated that by the end of 2024 the Silverstone Branch will relocate itself to a new larger library building in the Pinnacle community near Lake Hazel and Locust Grove roads in South Meridian. At this point Silverstone will be referred to as the South Branch. Features of the new branch will include a 24 hour access point for requested library materials placed on hold for patrons, reservable spaces including a community room, a children’s area with outdoor seating options, a designated teen space, and an adult lounge with a fireplace. MLD’s neighbors will include a coffee shop next door and an amphitheater across the courtyard.
 
+
 ## The Meridian Library District-Moving Forward
+
+
 As 2024 marks the 100th year of a library in Meridian, Idaho and the 50th anniversary of the Meridian Library District, the national award winning MLD continues to move forward. MLD librarians and staff continue to be passionate about their service to a large and diverse group of patrons, especially as the city of Meridian continues to grow. MLD staff are happy to continue to serve the community in areas of literacy, technology, business, and the preservation and access to Meridian’s history. We look forward to the next 100 years. 
 
 ## Sources
